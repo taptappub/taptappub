@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksey Potapov
 - 👀 I’m interested in programming, tasks solving and Android
 - 🌱 I’m currently learning how manage people
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everyone!
 - 📫 How to reach me ... aleksey.potapov.89@yandex.ru or https://www.linkedin.com/in/alexey-potapov-89293350/
 
 <!---
